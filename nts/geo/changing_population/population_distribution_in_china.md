@@ -21,3 +21,10 @@ population density - number of people living in a particular area, usually in 1 
 5. Vegetation
 6. Raw materials, natural resources
 7. Natural threats
+
+### Human Factors
+1. Agriculture
+2. Secondary industry
+3. Accessibility
+4. Political decisions - government policy
+5. Conflict - wars and conflicts
