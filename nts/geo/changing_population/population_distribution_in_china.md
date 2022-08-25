@@ -36,3 +36,7 @@ def.
 * Crude death rate - number of deaths per 1000 in a given year
 * Infant mortality rate - number of infants who die in their first year per 1000 live births in a given time period (IMR = number of deaths below age 1 year / number of live births in the same year x 1000)
 * Life expectancy - Average number of years a person can expect to live at the point of birth, assuming that existing conditions continue
+  * Life expectancy is higher for women because:
+    * difference in physiological make up
+    * substance abuse rates - alcohol, nicotine
+    * higher probability of unnatural deaths - violence
