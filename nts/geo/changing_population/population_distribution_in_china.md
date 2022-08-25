@@ -40,3 +40,13 @@ def.
     * difference in physiological make up
     * substance abuse rates - alcohol, nicotine
     * higher probability of unnatural deaths - violence
+
+Factors affecting fertility rates
+* Social/cultural Factors
+  * expectations of families and women, education levels, religion
+* political Factors
+  * government policies (pro and anti natal policies)
+* Economic Factors
+  * Children viewed as assets in LIC, support from companies for working mothers in HICS
+* Demographic factors
+  * infant mortality rates
