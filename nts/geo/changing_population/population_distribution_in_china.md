@@ -41,6 +41,9 @@ def.
     * substance abuse rates - alcohol, nicotine
     * higher probability of unnatural deaths - violence
 
+#### Fertility rates arround the world
+![fertility_rates](.src/fertility_rates.png)
+
 Factors affecting fertility rates
 * Social/cultural Factors
   * expectations of families and women, education levels, religion
@@ -50,3 +53,21 @@ Factors affecting fertility rates
   * Children viewed as assets in LIC, support from companies for working mothers in HICS
 * Demographic factors
   * infant mortality rates
+
+#### Mortality Rates
+![mortality_rate](.src/mortality_rate.png)
+Factors that affect mortality rates:
+* Social/Cultural factors
+  * education level of women
+  * medical technology
+    * availability of antibodies
+    * AIDs drugs
+    * immunization
+* Political - government policies
+  * Public health campaigns
+* Economic Factors
+  * Food and Nutrition
+  * manufactured goods
+* Demographic factors
+  * age
+  * diseases
