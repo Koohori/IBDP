@@ -84,4 +84,21 @@ push factor - factors which cause people to leave because of pressures which mak
   - redevelopment
 
 pull factor - perceived qualities that attract people to a new settlement
-- 
+- better employment
+- education
+- better social amenities and services
+- more security and better life chances
+
+![migrationpushandpull](.src/migrationpushandpull.png)
+
+##### Core periphery theory: world system concept by Immanuel Wallerstein
+- core - areas that attract migration, hold power and much of the wealth
+- periphery - places that are not reaping the benefits of globalization
+
+- periphery - rural out-migration, attraction of core regions/mega cities
+- Families and communities - 'chain' and 'relay' migration
+
+![brandtline.png](.src/brandtline.png)
+
+relative poverty - exists in all societies, regardless of the overall income level of the society
+absolute poverty - lack of resources is life-threatening
