@@ -172,7 +172,28 @@ People moved out to Eastern China to find better jobs and quality of life to shi
 
 |   | China | Niger|
 |---|-----|----|
-|Key Facts Location Place Names| Eastern China has majority of population citeis (Shanghai, Beijing, Shenzhen) | Tahoua, Maradi, Zinder, Dosso (All cities central south)|
+|Key Facts Location Place Names| Eastern China has majority of population citeis (Shanghai, Beijing, Shenzhen), Hu Line, 1.4 Billion people| Niamey (capital),Tahoua, Maradi, Zinder, Dosso (All cities central south), 24 million people, 80% land Sahara desert, 7 kids per woman, LIC, average life expectancy 55 (men)|
 |Push and Pull, Employment| More job opportunities in Eastern cities such as Beijing, More hospitable than deserts located in West China | Higher precipitation in South, Southern cities are more industrialized with agriculture, cement, etc, has better transportation|
 | Differences, Push and Pull Factors | Chinese industrialization policy (including Five Year Plans) | Less job opportunities
 | Degree of challenge for citizens in rural areas | Less precipitation, higher temperatures | North is mostly desert and steppe (poor quality soil with severe/extreme weather)|
+
+### Demographic Transition Model
+![dtm](.src/dtm.png)
+- Stage 1
+  - Birth rate and death rate are both high
+  - Population growth is slow and fluctuating
+  - High Birth rate
+    - lack of family planning
+    - high infant mortality rate: putting babies in the 'bank'
+    - Need for workers in agriculture
+    - Religious beliefs
+    - Children as economic assets
+  - Dearth Rate is high:
+    - High levels of disease
+    - Famine
+    - Lack of clean water
+    - Lack of health care
+    - War
+    - Competition for food from predators (like rats)
+    - lack of education
+  - Typical Britain in the 18th century
