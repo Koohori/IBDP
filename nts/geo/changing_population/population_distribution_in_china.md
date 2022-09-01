@@ -166,4 +166,13 @@ More plains and grass land near the coat of China including Fujian, Zhejiang, an
   - led to massive, often state sponsored migration to regional cities and from poorer to richer provinces
 
 ![economic_development_china](.src/economic_development_china.png)
-People moved out to Eastern China to find better jobs and quality of life to shift the population distribution 
+People moved out to Eastern China to find better jobs and quality of life to shift the population distribution
+
+
+
+|   | China | Niger|
+|---|-----|----|
+|Key Facts Location Place Names| Eastern China has majority of population citeis (Shanghai, Beijing, Shenzhen) | Tahoua, Maradi, Zinder, Dosso (All cities central south)|
+|Push and Pull, Employment| More job opportunities in Eastern cities such as Beijing, More hospitable than deserts located in West China | Higher precipitation in South, Southern cities are more industrialized with agriculture, cement, etc, has better transportation|
+| Differences, Push and Pull Factors | Chinese industrialization policy (including Five Year Plans) | Less job opportunities
+| Degree of challenge for citizens in rural areas | Less precipitation, higher temperatures | North is mostly desert and steppe (poor quality soil with severe/extreme weather)|
