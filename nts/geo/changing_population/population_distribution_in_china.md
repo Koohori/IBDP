@@ -256,3 +256,10 @@ Dependent Ratio:
 
 Formula for dependency ratio:
 (Number of children + Number of Pensioners) / (number of working age)
+
+Child Dependency Ratio
+- def. - ratio relates the number of children (0-14) to the working-age population (15-64 years old)
+- Youth dependency ratio = (youth 0-14 )/(older population 15-64)
+
+Old-age dependency ratio
+- population 64 or above / population (15-64)
