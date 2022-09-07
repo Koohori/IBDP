@@ -263,3 +263,9 @@ Child Dependency Ratio
 
 Old-age dependency ratio
 - population 64 or above / population (15-64)
+
+### Case study lagos
+- population disctibution
+demogratphic strucutre
+causes of megacity growth
+consequences of mgacity growth 
