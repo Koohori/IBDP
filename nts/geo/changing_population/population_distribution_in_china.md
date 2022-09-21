@@ -342,3 +342,30 @@ Def.
 * corruption
 * persecution
 * land grubbing
+
+### Case study - Syria
+- why they moved:
+  - civil war and instability in Syria
+- Where they moved to:
+  - Lebanon
+  - Turkey
+  - Germany
+- How they moved:
+  - by land or sea
+- Response of destination:
+  - took asylum seekers
+- Impact on origin:
+  - less people in Syria
+  - relatives not in Syria
+  - less kids
+
+### Case study - Niger
+
+
+### Global trend in HICs / MICs
+- Most countries have seen a decline in the fertility rate over the past 30 years (below population replacement rate of two children per women)
+- Average household size has decline
+  - sharp increase in the proportion of women entering the labor force
+  - Both men and women want to first establish themselves in the labor market before starting family
+- Birth rates have fallen
+- life expectancy has increased
