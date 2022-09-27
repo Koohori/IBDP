@@ -369,3 +369,38 @@ Def.
   - Both men and women want to first establish themselves in the labor market before starting family
 - Birth rates have fallen
 - life expectancy has increased
+
+#### General cause of gender in-balance
+- deliberate gendercide
+- infanticides
+- ageing
+- war casualties
+- sex - selective abortions
+
+### Aging population:
+- Problems:
+  - Rising healthcare costs
+  - higher dependency ratios
+  - shifting economies and cities
+  - rising tax to support older generation
+  - state pension
+- Benefits:
+  - some businesses make more profits as elderly people spend more money on holidays and leisure
+  - more childcare support from grandparents for people with families
+- Causes:
+  - Japan is HIC country which has good healthcare  
+  - childcare is expensive
+
+
+### Pro - natalist policies in Singapore from 1987
+- child benefit increases
+- maternity leave
+- family planning and population board abolished
+- government sponsored dating agencies
+- government subsidized child care
+- Sterilizations and abortion discouraged
+- increased maternity leave for 12 weeks
+- parents with good academic qualifications would get enhanced child benefit
+
+![anti_natal_sing](.src/anti_natal_sing.PNG)
+![pro_natal_sing](.src/pro_natal_sing.PNG)
