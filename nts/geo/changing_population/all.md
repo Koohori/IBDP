@@ -466,3 +466,18 @@ SDG goal 5 - women focused
 ### Trends
 - HICS have lower gender inequalities
   - exceptions : ex. japan
+
+* offer an overview
+- refer to points on compass
+- refer to scale
+- refer to named places
+- refer to provided data
+- any anomalies
+
+Describing a pattern
+- overview: rise or fall over time
+- refer to rate of any changes: how steep are the lines
+- refer to evenness or unevenness of any trend: any fluctuations, are lines smooth
+- data in answer: maximum or minimum values
+- any anomalies
+- distinguish between any actual and projected trends (past and future)
