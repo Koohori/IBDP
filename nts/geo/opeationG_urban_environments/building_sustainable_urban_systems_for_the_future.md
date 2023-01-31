@@ -38,7 +38,30 @@ Major financial institutions are inside Manhattan. This includes banks, investme
 
 
 high order goods - more luxurious or goods that are purchased on an infrequent basis and generally more costly such as tablet devices or cars
-range - area served by a settlement which can also be called its hinterland
-sphere of influence - maximum distance that customers are prepared to travel to access a good or service
+range - maximum distance that customers are prepared to travel to access a good or service
+sphere of influence - area served by a settlement which can also be called its hinterland
 low order goods - convenience goods bought on a necessity basis and include items such as bread, milk, or rice
 threshold - the absolute minimum number of people required to support a service and keep it in business
+
+site functions:
+- wet point site - close to a supply of water
+- dry point site - sites that avoided the risk of flooding
+- defensive site - were sites that were on high ground and allowed the inhabitants to see enemies from a distance
+- aspect - many settlements in the northern hemisphere are located on south facing sides of valleys where it is sunny
+- shelter - away from rain and prevailing winds
+- trading point - often settlements developed where natural training points meet such as along rivers or natural route ways
+- resources - many settlements developed close to where natural resources could be found
+- hamlet - small collection of homes population 10 -100
+- village - population less than 10,000
+- town - settlement larger than a village but smaller than city
+  - with town charter
+  - less than 100,000 depending on country
+- city - legal status in some countries
+  - over 100,000 depending on country
+- Conurbation - urban area incorporating adjacent centers
+  - former free standing towns and villages
+- Metropolis - large urban agglomeration, usually over 1 million
+- millionaire city - over 1 million
+- megacity - urban metropolis over 10 million
+- megalopolis - chain of roughly adjacent metropolitan areas
+  - after Lewis Mumford, 1938 The Culture of Cities
