@@ -65,3 +65,7 @@ site functions:
 - megacity - urban metropolis over 10 million
 - megalopolis - chain of roughly adjacent metropolitan areas
   - after Lewis Mumford, 1938 The Culture of Cities
+
+
+Low order goods :
+- 
