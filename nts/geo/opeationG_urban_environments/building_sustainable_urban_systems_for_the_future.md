@@ -68,4 +68,19 @@ site functions:
 
 
 Low order goods :
-- 
+- rice
+- cup ramen
+
+high order goods:
+- channel handbag
+- LMVH
+
+central shopping areas or high streets - department stores, chain stores, specialist shops and pedestrianized malls
+
+Superstores - large outlets close to residential areas
+
+Retail park - hardware, electrical and furniture superstores cluster
+
+Shopping parades -  cluster of shops
+
+Out of town precincts - outside/inside covered shopping malls
