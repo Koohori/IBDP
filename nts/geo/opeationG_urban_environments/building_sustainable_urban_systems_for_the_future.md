@@ -84,3 +84,25 @@ Retail park - hardware, electrical and furniture superstores cluster
 Shopping parades -  cluster of shops
 
 Out of town precincts - outside/inside covered shopping malls
+
+
+Burges model:
+- CBD
+  - good access
+  - banking
+  - vertical zoning
+- Industrial areas
+  - skill labor
+  - variety of labor
+  - access to CBD
+- Zone of transition
+  - From Industrial areas to suburban
+  - Working class zone
+  -
+
+  CBD declined because:
+  - City centers perceived to be dirty
+  - cost of living too high
+  - rise in car ownership
+  - congestion reduces accessibility
+  -

@@ -35,4 +35,11 @@ Coal:
 - second largest share of energy
 
 hydrogen
-- projected to be double digits share percentage in completely renewable energy time
+- projected to be double digits share percentage in completely renewable energy time  
+
+nexus - water, energy, food
+
+24 hours consumption recycled:
+- morning onigiri
+- Lunch container for school lunch 
+- receipt
