@@ -41,5 +41,15 @@ nexus - water, energy, food
 
 24 hours consumption recycled:
 - morning onigiri
-- Lunch container for school lunch 
+- Lunch container for school lunch
 - receipt
+
+## Global Commons
+- high seas
+- Antarctica
+- atmosphere
+- out of space
+
+- Tragedy of the commons
+  - def:
+  - Tragedy of the commons describes a situation in economic science when individual users, who have open access to a resource unhampered by shared social structures or formal rules that govern access and use, act independently according to their own self interest and, contrary to the common good of all users, cause depletion of the resource through their uncoordinated action
