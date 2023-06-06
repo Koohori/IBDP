@@ -126,25 +126,18 @@ Asian City
     - eg. apartheid in South Africa
 
 
-Brazil paragraph problems
-- Brazil has a problem with its favelas and the greatest issue is social because its younger population is not getting sufficient education opportunities to break the cycle of social deprivation. This results in the continuous growth in the unskilled population which relies on the informal sector for economic support and does not result in progress for infrastructure such as housing. As the betterment of the favelas require that the newer generation to have a potential to break the cycle and join the formal sector with skilled jobs, the greatest problem of Rio de Janeiro is not being able to educate its youth in the favelas to reduce future issues that result from lack of education.
+stage in life cycle:
+- pre child stage - Relatively cheap, central city apartment
+- child bearing - Renting of a single family dwelling close to apartment zone
+- child rearing - Ownership of relatively new suburban home
+- child launching  - Some areas as Child rearing or perhaps move to higher status area
+- post child - Marked by residential stability
+- late life - Institution, apartment, live with children
 
+Circular economy:
+- def: applies systems thinking to resources, following flows of materials, energy and information, it also highlights the importance of seeing the bigger picture and understanding the world as a complex system, rather than one that is linear and predictable
+- restorative and regenerative by design, and which aims to keep products, components and materials at their highest utility and value at all times, distinguishing between technical and biological cycles
 
-neo - comination form meaning new, modified, used in the formation of compound words: neo - malthusian
-anti - against
-pessimist - negative
-optimist - postiive thinking
-
-Neo-Malthusian - Pessimist
-- South Africa: Drought leads to failed crops, water shortages
-- World is running of of water and this maps shows where will dry up first
-Anti-Malthusian - optimist
-- we are getting smarter: we are technologically advanced and can create GM crops
-- we have inventive ways of making and sitributing
-
-Thomas Malthus:
-  - 1700s
-  - people would not stop increase in population
-  - until it meets the food resrouces limit of Earth
-    - upper bound
-    - Malthusian limit
+1. refurbished
+2. recycled
+3. reuse
