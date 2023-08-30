@@ -16,3 +16,8 @@ Theories:
 lahar - rocks with water, can be caused by volcanos and rain carrying debris
 landslide - sliding, kind of like lahar
 pyrocrasitc flows - gas moving down
+
+- Future possibilities for lessening human vulnerability
+- Geophysical harzard prevention
+- pre-event
+- post event adoptions 
