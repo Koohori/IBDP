@@ -38,7 +38,31 @@ The ability to notify the population also relies on a fast communication system 
 
 Therefore, the extent to which a vulnerable population relies on whether there are prior research, monitoring, and streamlined information distribution mechanism to warn the individuals before large earthquake events.
 
-
 def:
 - adaptation - ways in which human activities/actions are altered to take into account the increasing risk of a hazard
 - resilience - ability to protect lives, livelihoods and infrastructure from destruction, and to the ability recover after a hazard occurred
+
+
+Search and Rescue:
+- mobile devices - gps, qr code, social media
+- planning  
+  - priotize needs
+  - GIS (geographical information system)
+  - spatial patterns and visualization of damage and needs
+- Web based national/international information system
+  - unified data to be used and followed
+  - transparency among agencies involved in reconstruction and community
+- monitoring
+  - ict can be used to aggregate information from multiple sources to facilitate reporting
+  - see changes before and after event
+  - general public can use social media to asses and monitor reconstruction outcomes at their location
+
+Levels of response:
+- mitigation, preparedness, response, recovery
+
+short term responses:
+- emergency manage and relief
+- saving ppl so they can survive despite minimum necessities
+- search and rescue
+- burry dead bodies
+- enhance basic facilities and infrastructure to provide adequate services to victims
