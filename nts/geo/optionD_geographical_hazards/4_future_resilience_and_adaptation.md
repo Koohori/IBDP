@@ -66,5 +66,3 @@ short term responses:
 - search and rescue
 - burry dead bodies
 - enhance basic facilities and infrastructure to provide adequate services to victims
-
-p2 review
