@@ -67,4 +67,5 @@ short term responses:
 - burry dead bodies
 - enhance basic facilities and infrastructure to provide adequate services to victims
 
-testing
+
+## Mocoa Case Study
