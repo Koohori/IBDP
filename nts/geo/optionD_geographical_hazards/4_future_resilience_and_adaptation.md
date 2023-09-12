@@ -119,3 +119,27 @@ short term responses:
   - lava flow flooding
   - only 3 old seisometers at the time in 2002
   - Rawandan military occupying local area meant alarms of Volcanologists was not heard
+
+# Iceland Eruption
+- Root causes
+	- Eyjafjallajokull
+	- active volcano
+
+- Dynamic pressures
+	- income inequality 
+	- low unemployment rates
+	- effective social safety nets
+	- high house affordability
+	- diverse economy
+	- tight knit communities
+- Environmental and Economic
+	- land degradation 
+	- land use, wood cutting and livestock grazing
+	- Harsh weather
+	- Frequent volcanic eruptions
+	- Many graciers - potential for flooding 
+	- 55,000 USD per capita
+	- HIC, very high in the human development index (HDI)
+
+- Demographics
+  - gender balance equal in terms of population
