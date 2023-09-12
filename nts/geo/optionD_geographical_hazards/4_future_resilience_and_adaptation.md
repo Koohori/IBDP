@@ -79,4 +79,43 @@ short term responses:
   - 203 hospitzlized 
   - 1100 soldiers and police arrived to help with relief 
   - some shops looted by survivors seraching for water 
-- 
+- Mocoa
+  - one of the poorest parts of Colombia 
+  - Armed conflict frequent and drug trafficking businesses 
+  - political unrest and many IDPs in Mocoa
+  - causing unexpected immigration, shortage of housing
+  - pressure of unplanned urbanization 
+  - built on slopes/rivers which make it more vulnerable
+- no higher education in mocoa 
+  - no formal education system 
+
+## Nyiragongo Volcano
+- Eastern mountains in the Congo
+- Active volcano
+- Stratovolcano
+  - central cone: 1.3 km diameter 
+  - low viscosity lava 
+  - 147 deaths 
+  - 30,000 displaced 
+- Root cause: 
+  - constant chlorea breakout, only one source of water in a lake 
+  - no proper cleaning 
+  - national political instability 
+  - economic crisis
+    - deterioration of transportation network 
+    - agricultural services since independence led to return to subsistence agriculture
+    - collapse of market production 
+  - Heavy dependence on primary sector by majority of popoulation
+    - lots of farmland and extensive property damage 
+    - pushed more proportion of the population into deprivation and poverty 
+
+- Dynamic pressure
+  - large population located near the volcano city of Goma
+    - refugee camps in past years for IDPs and refugees from neighboring countries 
+  - high rates of poverty , homelessness
+  - Corruption and mismanagement led to failure of warning system 
+  - lack of emergency evacuation plans 
+- Unsafe conditions
+  - lava flow flooding
+  - only 3 old seisometers at the time in 2002
+  - Rawandan military occupying local area meant alarms of Volcanologists was not heard
