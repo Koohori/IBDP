@@ -124,7 +124,10 @@ short term responses:
 - Root causes
 	- Eyjafjallajokull
 	- active volcano
-
+	- located south coast of iceland 
+	- disrupted air space and flooding in sourthern Iceland 
+	- around 800 people evacuated due to floods
+	- NO FATALITIES
 - Dynamic pressures
 	- income inequality 
 	- low unemployment rates
@@ -143,3 +146,6 @@ short term responses:
 
 - Demographics
   - gender balance equal in terms of population
+
+
+
