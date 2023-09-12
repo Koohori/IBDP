@@ -69,3 +69,14 @@ short term responses:
 
 
 ## Mocoa Case Study
+- south of Colombia
+- Causes:
+  - water in pores due to 3 hour rainfall 
+  - caused landslides 
+- Morning of April 1, 2017
+  - more than 600,000 people hit by massive landslide and buriede by 17 neighborhoods 
+  - 254 people died 
+  - 203 hospitzlized 
+  - 1100 soldiers and police arrived to help with relief 
+  - some shops looted by survivors seraching for water 
+- 
