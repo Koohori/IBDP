@@ -148,4 +148,4 @@ short term responses:
   - gender balance equal in terms of population
 
 
-# Kaito a bitch
+# philipines most deadly
