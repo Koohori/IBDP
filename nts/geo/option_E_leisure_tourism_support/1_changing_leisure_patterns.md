@@ -23,7 +23,16 @@ leisure different by
 	- gender
 	- nationality
 	- income
+def:
+- leisure - free time when you are not in work , education or carrying out essential domestic activitie sand compulsory eating
+- sport - a physical acitvity with a set of rules and customs. THe activity may be competitive
+- recreation - this is referred to as the activities that are done when not working are done for amusement fun or pleasure 
 
+
+Notes on presentation (different demographics for leisure)
+
+#### Boy child in middle income family
+- source of income: child allowance, new year money, pocket money, 
 
 
 
