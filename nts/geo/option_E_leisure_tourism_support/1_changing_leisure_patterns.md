@@ -35,9 +35,56 @@ Notes on presentation (different demographics for leisure)
 - source of income: child allowance, new year money, pocket money, 
 
 
+### Hihghschooler Japanese
+- average 4,500 yen pocket money
+- may go karaoke, friend hangouts, etc. 
+
 
 
 ## 2 Classifying tourism and sport 
+- Primary tourism resrouce
+	- attractions that pre-date tourism
+	- attractive because first instance
+	- eg. climate, scenery, wildlife, indigenous people and cultural heritages 
+- Secondary tourism resource
+	- extra facilities that are now existing to accomodate tourists
+	- eg. hotels, restaurants, water parks, shoppping, adventure providers 
+
+extreme leisure:
+- bungee jumping
+- mad mask
+- eating elevated on top of a city
+
+
+#### Types of tourism
+- Adventure
+	- hiking, sking 
+- Cultural
+	- holly places
+	- Vatican city
+- Religious
+	- Temples in India
+	- Sun temple of konork
+- Medical
+	- Getting treatment in different countries
+	- USA for dental
+	- Turkey hair implants
+- Eco
+	- responsilble travel to natural areas
+	- going to national park
+- Heritage
+	- history of civilizations
+- Epicurean 
+	- food and drink
+- Educational
+	- travel based on certificates / specific subjects
+- High end tourism
+	- 
+- Budget Tourism
+- Mass tourism
+
+
+
 
 
 ## Economic development and participation in leisure
