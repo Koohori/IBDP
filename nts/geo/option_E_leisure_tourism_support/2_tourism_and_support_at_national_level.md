@@ -17,6 +17,9 @@ Cruise banned from Venice:
 - Population threathold - minimum number of people required for that facility to be viable.Smaller the threshold population, the smaller the spehre of influence
 - Leisure Hireachy - When leisure facilities are placed in an order of importance or value. This may be based on sphere of influence or population threshold
 
+def: 
+- festival - day or period of celebration, typically for religious reasons
+	- can be non religious as well
 
 
 
