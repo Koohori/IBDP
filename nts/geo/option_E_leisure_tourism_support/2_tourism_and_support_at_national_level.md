@@ -21,6 +21,17 @@ def:
 - festival - day or period of celebration, typically for religious reasons
 	- can be non religious as well
 
+costs and benefits of using urban parks for music festivals:
 
+- benefits
+	- commercial revenue to tackle government austerity
+	- provides the venue for music venues
+- costs
+	- less access to green space
+	- privatization of community parks
+	- soil degredation 
+	- less biological diversity 
+	- noise pollution
+	- 
 
 
