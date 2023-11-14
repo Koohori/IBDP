@@ -46,7 +46,9 @@ environmental costs:
 
 Examine reasons why the growth of tourism hotspots can become unsustainable? (10 marker) 
 
-
+- why there is growth in tourism, processes affecting inbound, definition of tourism hotspots.
+- what are the consequences, how does it affect stakeholders
+- how is that unsustainable
 
 
 
