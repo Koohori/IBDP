@@ -50,7 +50,24 @@ Examine reasons why the growth of tourism hotspots can become unsustainable? (10
 - what are the consequences, how does it affect stakeholders
 - how is that unsustainable
 
-tional development strategy: 
-- government policy that encourages tourism and that brings benefits to the country 
-- most countries have development strategies relating to aspects of their economic or social development
+def: 
+- vertical integration - takes places when a tnc controls two or more stages of supply chain
+- horizontal integration - tnc controls more than one compnay at the same stage of the supply chain
+
+What is TNC?
+- trans national coorporations
+
+name three TNCs:
+- Expedia, Priceline, Thomas Cook
+
+TNC can offcer cheap tourism opportunities because they can take economies of scale to their advantge. They can lower per unit costs. 
+
+Economies of scale means that as companies become larger, they can save money. 
+
+Horizontal integration is owning separate companies in same stage of supply chain, vertical integration is owning different processes inside of the supply chain 
+
+
+national developmental strategy - govenrment policy that encourages tourism and that brings benefits to the country. Most countries have national development strategies relating to aspectrs of their economics or social development
+
+
 
