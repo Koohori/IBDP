@@ -50,5 +50,7 @@ Examine reasons why the growth of tourism hotspots can become unsustainable? (10
 - what are the consequences, how does it affect stakeholders
 - how is that unsustainable
 
-
+tional development strategy: 
+- government policy that encourages tourism and that brings benefits to the country 
+- most countries have development strategies relating to aspects of their economic or social development
 
