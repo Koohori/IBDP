@@ -69,5 +69,10 @@ Horizontal integration is owning separate companies in same stage of supply chai
 
 national developmental strategy - govenrment policy that encourages tourism and that brings benefits to the country. Most countries have national development strategies relating to aspectrs of their economics or social development
 
+butler model of tourism
+![butlermode](.src/butler.png)
+
+
+
 
 
