@@ -72,6 +72,27 @@ national developmental strategy - govenrment policy that encourages tourism and 
 butler model of tourism
 ![butlermode](.src/butler.png)
 
+past question: 10 marker - Evaluate the costs and benefits of tourism as a national development strategy? 
+
+### Pros and cons of Morocoo's nationalized tourist strategy: 
+#### Pros: 
+- Support from govenrment
+- national commitment to sustainabilty
+- stimulus to ensure resilience through stimulus checks
+- foreign invvestments
+- TNC investment and interaction with Morocco
+- growth in inbound tourists 
+
+
+
+#### Negative; 
+- Tourist negligence of environment
+- Exploitation of local culture
+
+
+### Earthquake's effect on Morocco's tourism: 
+- tourists, locals, and workers injured during earthquake
+- infrastructure and structures meant for tourists damaged
 
 
 
