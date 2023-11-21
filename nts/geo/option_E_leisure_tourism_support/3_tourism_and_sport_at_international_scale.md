@@ -96,4 +96,17 @@ past question: 10 marker - Evaluate the costs and benefits of tourism as a natio
 
 
 
+10 maker preparation: 
+- some LICs use industrialization as a pathway to economic development
+- others turn to tourism as a national development strategy 
+- it is seen as a way to bring substantial income, similar to manufacturing, albeit without the environmental pollution 
+- it is more reliable source of income with rather stable prices
+- constantly renewable supply of tourists available from richer countries Tourism has a high potential profitability 
+- often quicker way of raising national income compared to exporting primary products or developing the manufacturing sector 
+- countries may require visitors to bring to bring in certain mounts of foreign currency per day of stay that is not allowed to be taken out of the country at the end of the trip, to encourage foreign investment for the local economy
+
+
+
+
+
 
