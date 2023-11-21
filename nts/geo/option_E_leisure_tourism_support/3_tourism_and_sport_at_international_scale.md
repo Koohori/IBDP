@@ -97,6 +97,8 @@ past question: 10 marker - Evaluate the costs and benefits of tourism as a natio
 
 
 10 maker preparation: 
+
+gains:
 - some LICs use industrialization as a pathway to economic development
 - others turn to tourism as a national development strategy 
 - it is seen as a way to bring substantial income, similar to manufacturing, albeit without the environmental pollution 
@@ -106,6 +108,22 @@ past question: 10 marker - Evaluate the costs and benefits of tourism as a natio
 - countries may require visitors to bring to bring in certain mounts of foreign currency per day of stay that is not allowed to be taken out of the country at the end of the trip, to encourage foreign investment for the local economy
 
 
+risks: 
+- can be devastated by:
+	- economic recession in home countries
+	- terrorism looses confidence
+	- impacts of natural disasters 
+	- personal level problems
+	- local people develop dependence on selling to tourists
+	- local neglect education of children or cultivation of food
+- general cultural costs of tourism, hostility: 
+	- tousists can fail to respect local customs
+	- create hostility among locals
+	- locals placed in roles of servitudes that they find demeaning
+- transculturation: 
+	- exposed to new ideas by outsiders
+	- can lead to adaptation to accomodate preference of tourists
+	- toursitst to 'exotic' culture, extraction, exploitation 
 
 
 
