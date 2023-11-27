@@ -21,7 +21,7 @@ sustainable tourism (from UN) - tourism tha takes full account of its current an
 2. respect the socio-cultural authenticity of host communitites, conserve their built and living cultural heritage and traditional values, and contribute to inter-cultural understanding of tolerance
 3. Ensure viable, long-term economic operations, providing socio-economic benefits to all stakeholders that are fairly distributed, including stable employment and income earning oppotunities and social services to host communities, and contributing to poverty alleviation
 
-![sustainability](.src/sustainability.JPEG)
+![sustainability](.src/sustainability.jpeg)
 
 
 
