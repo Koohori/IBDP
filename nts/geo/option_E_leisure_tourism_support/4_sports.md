@@ -23,6 +23,33 @@ sustainable tourism (from UN) - tourism tha takes full account of its current an
 
 ![sustainability](.src/sustainability.jpeg)
 
+### Examples of sustianable eco tourism: 
+
+- THe Gambia
+	- Ecolodge in the Gambia
+	- has solar panels, disattached from the grid
+	- solar heated water
+	- liveable wage
+	- pension, payed leave
+	- no comission to artists promoting culture
+- costa rica
+	- rancho margot (sustainable resort)
+	- off the grid resort
+	- make their own food 
+	- generate own electricity
+	- 'zero carbon' due to buying credits for co2
+	- family owned
+- India, reality tours
+	- run by an indian
+	- tour a slum in Munbai
+	- experience what slum life is like
+	- spread the idea that slum life is not all miserable
+	- incrase understanding for slum lfie community
+	
+	- DHRAVI, INDIA
+	- contributed to 6,000 children enrolling in education
+	- Negative: social tension
+
 
 
 
