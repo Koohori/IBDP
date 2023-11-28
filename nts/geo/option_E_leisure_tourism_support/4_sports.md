@@ -48,7 +48,18 @@ sustainable tourism (from UN) - tourism tha takes full account of its current an
 	
 	- DHRAVI, INDIA
 	- contributed to 6,000 children enrolling in education
-	- Negative: social tension
+	- Negative: social tensio
+	
+Eco-tourism:
+- involves travel to natural destinations
+- mimises impact
+- builds environments
+- provides direct financial benefits for conservation
+- provides financial benefits and empowerment for local people
+- respects local culture
+- supports human rights and democratic movements
+
+
 
 
 
