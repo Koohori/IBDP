@@ -60,7 +60,56 @@ Eco-tourism:
 - supports human rights and democratic movements
 
 
+def- responsible travel to natural areas that conserve the environment, sustians the well-being of the local people, and involves interpretation and education.
+
+- economic
+	- advantages
+		- major means of foreign earnings
+		- balance economic development
+		- job opportunities
+	- disadvantages
+		- leakage of income
+		- incarase unhealthy economic gap among locals
+- social
+	- advantage
+		- promotion and conservation of various local culture, arts, traditions
+		- education for the importance of culture
+		- culture exchange
+	- disadvantage
+		- various social problems
+		- undersireable commercdialization of cultural and religious assets
+- environmental
+	- advantages
+		- incentives for conservation of natural areas
+		- education about environmental ethics
+	- disadvantages
+		- indirect damage of vegetation
+		- decay of habitats
+		- pollution
+		- commercialization of natural resources
+
+international tourism affected by:
+- age of social media
+	- globalization
 
 
+Threats summary to internatioanl tourism:
+- terror inpmactsed global travel
+- travel bans
+- drones and disruptive technology
+- destinations deemed unsafe
+- Covid 19 pandemic
 
+def 
+
+- diaspora - popoulation scattered across regions which are separate from its geographic place of origin
+		- word used in reference to people who identify with aspecific geographic location, but currently reside elesewhere
+		
+
+
+catchment area of recreation and sports facilities - catchment area is the area from which a facility attracts a population that uses its services
+	- national sport stadium compared to a local park
+range of recreation sport facilities
+	- range refers t othe maximum distance that people travel to access the facilities
+	- people travel a longer distance to go to professional baallet as opposed to amateur ballet
 
