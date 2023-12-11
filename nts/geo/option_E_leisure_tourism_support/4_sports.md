@@ -113,3 +113,7 @@ range of recreation sport facilities
 	- range refers t othe maximum distance that people travel to access the facilities
 	- people travel a longer distance to go to professional baallet as opposed to amateur ballet
 
+
+olymipc legacy - long term impact and benefits that hosting the olympic games can have on a city, region, or country
+	- good olympic legacy encompasses a range of positive outcomes in various social, economic, environmental, and cultural aspects
+
