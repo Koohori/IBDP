@@ -115,5 +115,9 @@ range of recreation sport facilities
 
 
 olymipc legacy - long term impact and benefits that hosting the olympic games can have on a city, region, or country
-	- good olympic legacy encompasses a range of positive outcomes in various social, economic, environmental, and cultural aspects
+	- good olympic legacy encompasses a range of positive outcomes in various social, economic, environmental, and cultural aspect
+
+
+def: boycott - withdraw from commercial or social relations with a country, organization, or person as a punishment or protest
+
 
