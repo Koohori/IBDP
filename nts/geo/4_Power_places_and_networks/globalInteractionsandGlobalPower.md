@@ -38,6 +38,13 @@ categorizations:
 	- Saudi Arabia has large oil reserves while America and China have high mineral reserves
 
 
+- hard power
+	- excercise of influence through coercion, relying ontactics like military force, payments, and economic sanctions
+- soft power
+	- attraction and persuation to change mindsa and influence behavior. sources include culture, government, political values, and positive global engagement
+
+
+
 
 
 
