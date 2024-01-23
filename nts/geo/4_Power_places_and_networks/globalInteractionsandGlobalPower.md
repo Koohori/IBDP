@@ -43,7 +43,11 @@ categorizations:
 - soft power
 	- attraction and persuation to change mindsa and influence behavior. sources include culture, government, political values, and positive global engagement
 
-
+UN
+- first post war intergovernmental organization to be established. They are the most powerful intergovernmental group in the world
+- important achievements
+	- declaration of Human Rights and International Court of Justice
+	- SDGs and MDGs, Kyoto protocol (first 1992 Environment and development submmit)
 
 
 
