@@ -50,8 +50,18 @@ UN
 	- SDGs and MDGs, Kyoto protocol (first 1992 Environment and development submmit)
 
 
+Powerful groups can be divided into three categories:
+- lending institutions
+- global governance
+- trade blocks
 
 
+1. why are remittances important?
+	- economic support for families
+	- source of foreign exchange
+	- diversification for income sources for the nation
+	- filling fiscal gaps
+2.
 
 
 
