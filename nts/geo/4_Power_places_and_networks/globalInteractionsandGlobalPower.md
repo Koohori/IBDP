@@ -61,7 +61,33 @@ Powerful groups can be divided into three categories:
 	- source of foreign exchange
 	- diversification for income sources for the nation
 	- filling fiscal gaps
-2.
+
+FDI (foreign direct investment)
+- investment made by a firm or individual in one country into business interests located in another country
+
+outsouricng: 
+positive:
+	- hics:
+		- chdeaper imports
+		- growth in lics
+		- greater worker mobility to areas with relative scarcities of labour
+		- greater industrial efficiency
+	= nics and lics
+		- higher export - generated income
+		- effects can spread to local areas with many new, highly paid jobs
+		- negative trade balances can be reduced
+		- employmet growth is relatively labour intesntive manufacturing spreads wealth
+negative	
+	- HICs
+		- rising unemployment, espeically of unskilled woekrs
+		- larger gaps develop between skilled and unskilled workers
+		- job losses are invariably concentrated in certain areas and certain industries
+		- branch plants are particularly vulnerable
+	- nics
+		- jobs tend to be concentrated in teh core
+		- TNCs may be expolitative and establish sweatshops
+		- overdependece on a narrow ecnomic base 
+		- food supplies may be reduced as people give up agriculture
 
 
 
