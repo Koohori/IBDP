@@ -89,5 +89,26 @@ negative
 		- overdependece on a narrow ecnomic base 
 		- food supplies may be reduced as people give up agriculture
 
+large companies: 
+- amazon:
+	- web services
+		- cloud solution
+		- connects people and places
+	- product delivery
+		- has membership tiers
+		- amazon now / prime music, video ,etc 
+	- supply chain in shipping/shopping
+	- large market capitalization more than 1.5 trillion
+	- amazon go - shipping
+
+- starbucks
+	- 24 billion in profits in 2023
+	- multi-domestic strategy
+		- matches the need to the local demand
+		- popular within the local audience
+	- autonomy for local regional stores that are adoptive
+	- glocalization
+	- 
+
 
 
