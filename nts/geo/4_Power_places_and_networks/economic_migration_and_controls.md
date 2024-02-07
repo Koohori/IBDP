@@ -20,13 +20,30 @@ ecnomic migrant
 	- typically command high pay and contribute to expatriate communities in global cities
 	- visa schemes like the blue card in the EU and the Green cared in USA
 	- designed to attract these elite migrants
+other migrants:
+- refugees and asylum seekers:
+	- forced to flee their country due to persecution or conflict
+- skilled migration
+	- countries with liberal migration policies attract to fill gaps in the economy
+	- may lead to brain drain in the origin nation
 
 
+### Controlling migraiton:
+- legal restrictions
+- bilateral agreemetns
+- border control mesaures
 
 
+### Issues with illegal migration
+- migration control can be controversial for human rights
+- Mediterranean crossing highlighted as most dangerous with hih fatalities
 
 
-
+trends in international migration
+- migration becoming more global and diversity of areas of origin is increasing
+- migration accelerating
+- migration becoming diversified - combination of permanent settlers, refugees, skilled labour, economic migrants, etc
+- migration includes more woman, historically used to be dominated by men
 
 
 
