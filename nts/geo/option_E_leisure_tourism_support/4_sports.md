@@ -120,4 +120,22 @@ olymipc legacy - long term impact and benefits that hosting the olympic games ca
 
 def: boycott - withdraw from commercial or social relations with a country, organization, or person as a punishment or protest
 
+political protest
+	- govenrment actions:
+		- countries or groups may choose to boycott events as a political protest against the actions or policies of the host nation
+		- in response to human rights violations, controversial laws or geopolitical dispute
+	- international relations: 
+		- nations might choose to boycott events as a means of expressing dissatisfaction with the international community, signaling a breakdown in diplomatic relations, or protesting against perceived injuustice
+human rights concerns
+	- discrimination:
+		- boycotts may occur when allegations or evidence of discrimination based on race, gender, religion or other factors associated with events or its organizers arise
+	- social justice issues:
+		- to draw attaention to broader social justice issues, such as inequality, systemic injustice, or insufficient representaiton
+
+ethical and environmental concerns:
+	- environmental impact 
+		- concerns about environmental impact, such as excessive carbon emissions, damage ato ecosystems, or unsustainable practices
+	- ethical considerations
+		- boycotts may be promoted by event's sposors, participatns, or the overall conduct associated with the evet. 
+		- could include issues like corruption, exploitation, or unethical business practices
 

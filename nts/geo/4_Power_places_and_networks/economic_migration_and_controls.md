@@ -48,3 +48,11 @@ trends in international migration
 
 
 
+Def: 
+- Friction of distance - reduced liklihood of people using a service the greater the distance that they live from it. Distance is an issue due to the time and cost to over come it.
+	- friction of distance is closely related to transportation and accessbility
+
+
+
+
+
