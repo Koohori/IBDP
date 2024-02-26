@@ -62,6 +62,12 @@ disadvantages
 - economic and political exploitation e.g. resources may be stripped, taxes not paid
 
 
+glocalization - to cater to geographical variations in people:s tastes, religion, culture and interests
+
+cultural hybridity - when a new culture develops, whose traits combine two or more different set of influences
+
+
+
 
 
 
