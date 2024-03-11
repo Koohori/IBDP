@@ -63,11 +63,50 @@ disadvantages
 
 
 glocalization - to cater to geographical variations in people:s tastes, religion, culture and interests
+- pork removed in muslim nations
+- beef removed in hindu nations
+- local festivals celebrated (ramadan in muslim nations, would offer buffets for breakfast during fast)]
+- staff have different uniforms depending on culture
+- changing language of menus, signs, etc
 
-cultural hybridity - when a new culture develops, whose traits combine two or more different set of influences
 
 
+Kaprao Riceltural hybridity - when a new culture develops, whose traits combine two or more different set of influences
 
+hybrid: something of mixed origin or composition such as word whose elements are derived from different languages
 
+cultural hybridity: when a new culture develops, whose traits combine two or more different sets of influence
+
+cultural hybridization: create something new like K-pop 
+    - process - many immigrants face process as they attempt to accomodate new environments and expereiences while holding on to their indigenous socio cultural principles or beliefs
+
+cultural landscape - distinctive character of a geographical places or region that has been shaped over time by combination of physical and human process
+
+financescape - modern landscape of tower blocks and offices that incorporates state of the art architecture and which is usually deisgned to impress by reaching great heights than the surrounding district
+
+uniform urban landscapes
+- greater inter-connectedness
+    - migration and needs of migrants
+    - exchange of culture
+- tncs more resources and influence over local retailers and eventually replaces them
+- dilution of local/national culture haritage
+- modernize to attract investments/people
+
+postivie
+- acess to global brands
+negative
+- loss of identity/lifestyles options for people
+- local business forced to close down
+- homogenization of visual appearance
+
+For globalization
+- increasing world trade should make everyone richer, and global phenomena like tha internet can help those who are oppressed
+- trade links can encourage countries to respect human rights
+
+against globalization
+- exploitation of world's poor workers, and the environemtn
+- smaller countries and individual being Americanized
+- growing rich poor divide
+- unstable capitalistic system
 
 
