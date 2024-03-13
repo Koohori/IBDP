@@ -109,4 +109,33 @@ against globalization
 - growing rich poor divide
 - unstable capitalistic system
 
+de-globalization
+- reduction in the intensitity of some global interactions or the introductions of new barriers to global flows
+
+- civil society groups opposed to poorly regulated actions of globalizations most powerful ecnomic players opposed
+    - international banks, food companies should be opposed to their damaging effect
+
+Anti-globalization: 
+- wide range of protest, lobby and interest groups - causes include environmentalism, developing country debt, anti-capitalism and opposition to multinationls/TNCs
+
+## Battle of Seattle (1999)
+- approximately 60,000 people involved
+- protest against WTO trade talks, postponed
+- US military intervened and declared martial law
+
+## case for against TNCs
+- harms poorest people 
+- don't pay taxes and has monopoly
+- pollutes
+- cultural imperialism
+
+
+militia - armed non-official or informal military force raised by members of civil society. 
+    - sometimes characterized as freedom fighters or terrorits varying on the view
+- autocratic state - non-democratic country where politidcla power is concentrated in the hands of one or more people who may be unelected
+
+
+
+
+
 
