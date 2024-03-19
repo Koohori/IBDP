@@ -138,4 +138,46 @@ militia - armed non-official or informal military force raised by members of civ
 
 
 
+Guardian ransomware attack podcast:
+
+def
+- risk
+    - real or perceived threat against any aspect of social or economic life
+- hacking
+    - gaining of unauthorized access to data in a system or computer
+- personal freedom
+    - ability of individuals to make choices and decisions about their lives without undue interference from external forces
+- global supply chain
+    - network that involves the production, distribution, and consumption of goods and services across different countries
+- political sovereignty
+    - freedom of a state to govern itself fully, independent of intereference by any foreign power. In theory, no UN member has complete political soverignty
+- economic soverignty
+    - freedom of a state from any outside intervention in its markets and trading relationships. In reality, no state has complete economic sovereignty owing to the complexities of world trade and trading agreements
+- sovereign wealth funds
+    - money used by state governments to purchase large overseas assests such as power stations and rail infrastructure
+- profit repatriation
+    - financial flow of profits from a country where a tNC has overseas operations back to the country where its headquarters are
+- corporate migration
+    - when a TNC changes its corporate identity, relocating its headquarters to a different country
+- transfer pricing
+    - financial flow occuring when one division of a new TNC based in one country charges a division of the same firm based in another country for the supply of a product or a service. It can lead to less corporation tax being paid
+- expatriate
+    - someone who has migrated to live in another state but remains a citizen of the state where they were born
+- disruptive technology
+    - technology which brings major changes to the way people live and work instead of merely supporting and enhancing teh current way things are done
+- tribalization
+    - rise of 'us' and 'them' political movements, which are often opposed to globalization or Westernization
+- populism 
+    - idea that every political decision in a democracy shouldr eflect what the majority of citizens belive, not what the majority of politicians belive
+
+
+
+
+
+
+
+
+
+
+
 
