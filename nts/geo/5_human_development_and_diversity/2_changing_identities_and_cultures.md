@@ -170,14 +170,14 @@ def
 - populism 
     - idea that every political decision in a democracy shouldr eflect what the majority of citizens belive, not what the majority of politicians belive
 
-
-
-
-
-
-
-
-
-
+### Top global risks in 2024
+- extreme weather
+- ai-generated migration/disinformation
+- societal and/or political polarization
+- cost of living crisis
+- cyberattacks
+- economic downturn
+- disrupted supply chain or critical goods and resources
+- escalation of armed conflicts
 
 
