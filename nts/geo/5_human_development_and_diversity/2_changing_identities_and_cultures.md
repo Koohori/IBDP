@@ -181,3 +181,17 @@ def
 - escalation of armed conflicts
 
 
+tax heavans:
+- bahamas
+- cayman islands
+- bahrain
+- bermuda
+
+
+### Tax heavens
+- allows people to pay lower taxes
+- people then get to save their profit
+
+
+
+
