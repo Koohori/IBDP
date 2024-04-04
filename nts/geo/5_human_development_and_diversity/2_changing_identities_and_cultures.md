@@ -197,5 +197,8 @@ tax heavans:
 
 - polarization - rising geopolitical tensions and economic rivalries divide the global ecnomy into competing bloc of countries
 - islandization - nationalism gains ground in key economies around the world, leading to protectionist measures and reduced global ecnomic flows
+- commonization - rise of new globa lcommons through manufacturing and the sharing of economy, reducing consumer capitalism
+
+
 
 
