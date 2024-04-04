@@ -193,5 +193,9 @@ tax heavans:
 - people then get to save their profit
 
 
+ def:
+
+- polarization - rising geopolitical tensions and economic rivalries divide the global ecnomy into competing bloc of countries
+- islandization - nationalism gains ground in key economies around the world, leading to protectionist measures and reduced global ecnomic flows
 
 
