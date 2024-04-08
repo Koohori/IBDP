@@ -1,3 +1,15 @@
-3rd note
+### Global and local resisntance
 
-testing with new devic
+key terms: 
+- resilience
+- wicked problems
+- crodfunding
+- reshoring
+- big data
+- nearshoring
+- cyberespinonage
+- biometrics
+
+
+
+
